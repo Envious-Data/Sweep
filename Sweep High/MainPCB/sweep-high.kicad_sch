@@ -1768,7 +1768,7 @@
     (uuid 00000000-0000-0000-0000-0000605e7e3e)
     (property "Reference" "J1" (id 0) (at 120.8278 59.055 0))
     (property "Value" "AudioJack4dpb" (id 1) (at 120.8278 61.3664 0))
-    (property "Footprint" "Connector_Audio:Jack_3.5mm_PJ320D_Horizontal" (id 2) (at 121.92 67.31 0)
+    (property "Footprint" "env_extra:PJ-320A" (id 2) (at 121.92 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 121.92 67.31 0)
@@ -2096,7 +2096,7 @@
     (uuid 00000000-0000-0000-0000-0000608f2563)
     (property "Reference" "J2" (id 0) (at 122.0978 158.115 0))
     (property "Value" "AudioJack4dpb" (id 1) (at 122.0978 160.4264 0))
-    (property "Footprint" "Connector_Audio:Jack_3.5mm_PJ320D_Horizontal" (id 2) (at 123.19 166.37 0)
+    (property "Footprint" "env_extra:PJ-320A" (id 2) (at 123.19 166.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 123.19 166.37 0)
@@ -2338,10 +2338,10 @@
       (reference "H8") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3")
     )
     (path "/00000000-0000-0000-0000-0000605e7e3e"
-      (reference "J1") (unit 1) (value "AudioJack4dpb") (footprint "Connector_Audio:Jack_3.5mm_PJ320D_Horizontal")
+      (reference "J1") (unit 1) (value "AudioJack4dpb") (footprint "env_extra:PJ-320A")
     )
     (path "/00000000-0000-0000-0000-0000608f2563"
-      (reference "J2") (unit 1) (value "AudioJack4dpb") (footprint "Connector_Audio:Jack_3.5mm_PJ320D_Horizontal")
+      (reference "J2") (unit 1) (value "AudioJack4dpb") (footprint "env_extra:PJ-320A")
     )
     (path "/00000000-0000-0000-0000-0000604ea4f3"
       (reference "RSW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_B3U-1000P")

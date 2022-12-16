@@ -6,4 +6,5 @@
   (lib (name "Switch_Keyboard_Hotswap_Kailh")(type "KiCad")(uri "${GITROOT}/_libraries/Switch_Keyboard_Hotswap_Kailh.pretty")(options "")(descr ""))
   (lib (name "Switch_Keyboard_Hybrid")(type "KiCad")(uri "${GITROOT}/_libraries/Switch_Keyboard_Hybrid.pretty")(options "")(descr ""))
   (lib (name "Switch_Keyboard_Kailh")(type "KiCad")(uri "${GITROOT}/_libraries/Switch_Keyboard_Kailh.pretty")(options "")(descr ""))
+  (lib (name "env_extra")(type "KiCad")(uri "${GITROOT}/_libraries/env_extra.pretty")(options "")(descr ""))
 )
