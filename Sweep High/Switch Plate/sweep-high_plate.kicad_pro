@@ -161,7 +161,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "sweep-high_plate.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
