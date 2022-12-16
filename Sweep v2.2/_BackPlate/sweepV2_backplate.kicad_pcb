@@ -1145,8 +1145,6 @@
     (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask) (tstamp f7c435ce-754d-4d62-a728-54c7769d1d86))
   )
 
-  (gr_rect (start 27.178 50.419) (end 33.909 53.34) (layer "B.SilkS") (width 0.12) (fill none) (tstamp 23573313-9d57-496f-956d-cc111cf3df78))
-  (gr_rect (start 226.822 50.419) (end 233.426 53.34) (layer "B.SilkS") (width 0.12) (fill none) (tstamp 6a988ff7-874a-4743-ad13-d22b45527f34))
   (gr_line (start 131.5085 77.724) (end 131.506254 89.547024) (layer "Edge.Cuts") (width 0.05) (tstamp 00000000-0000-0000-0000-0000619805f2))
   (gr_line (start 219.998001 47.763999) (end 219.998045 30.439419) (layer "Edge.Cuts") (width 0.05) (tstamp 00000000-0000-0000-0000-0000619805f5))
   (gr_arc (start 226.446 107.451265) (mid 225.204995 108.32098) (end 223.714 108.05) (layer "Edge.Cuts") (width 0.05) (tstamp 00000000-0000-0000-0000-0000619805f8))
