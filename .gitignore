@@ -30,3 +30,4 @@ fp-info-cache
 
 # Gerber to order plugin folder
 gerber_to_order/
+*backup*
