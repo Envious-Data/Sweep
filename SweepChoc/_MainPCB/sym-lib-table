@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "keebio")(type "Legacy")(uri "${GITROOT}/_libraries/keebio.lib")(options "")(descr ""))
+  (lib (name "kbd")(type "Legacy")(uri "${GITROOT}/_libraries/kicad-symbols/kbd.lib")(options "")(descr ""))
 )
