@@ -1,0 +1,95 @@
+2023-01-28 21:26:49.673 [main] INFO  Freerouting v1.6.2 (build-date: 2022-07-13)
+2023-01-28 21:26:49.685 [main] INFO  Opening 'C:\Users\Envy\Documents\GitHub\Sweep\SweepMX_Test\MainPCB\freerouting.dsn'...
+2023-01-28 21:26:50.449 [main] INFO  Opening 'freerouting.rules'...
+2023-01-28 21:26:50.450 [main] ERROR File 'freerouting.rules' was not found.
+2023-01-28 21:26:50.518 [Thread-0] INFO  Starting auto-routing...
+2023-01-28 21:26:50.518 [main] TRACE Method 'MainApplication.main()' was performed in 0.90 seconds.
+2023-01-28 21:26:50.851 [Thread-0] WARN  FloatLine: Parameter is null
+2023-01-28 21:26:50.857 [Thread-0] WARN  FloatLine: Parameter is null
+2023-01-28 21:26:50.861 [Thread-0] WARN  FloatLine: Parameter is null
+2023-01-28 21:26:50.865 [Thread-0] WARN  FloatLine: Parameter is null
+2023-01-28 21:26:50.870 [Thread-0] WARN  FloatLine: Parameter is null
+2023-01-28 21:26:50.875 [Thread-0] WARN  FloatLine: Parameter is null
+2023-01-28 21:26:50.878 [Thread-0] WARN  FloatLine: Parameter is null
+2023-01-28 21:26:50.881 [Thread-0] WARN  FloatLine: Parameter is null
+2023-01-28 21:26:50.883 [Thread-0] WARN  FloatLine: Parameter is null
+2023-01-28 21:26:50.886 [Thread-0] WARN  FloatLine: Parameter is null
+2023-01-28 21:26:50.889 [Thread-0] WARN  FloatLine: Parameter is null
+2023-01-28 21:26:51.032 [Thread-0] WARN  FloatLine: Parameter is null
+2023-01-28 21:26:51.036 [Thread-0] WARN  FloatLine: Parameter is null
+2023-01-28 21:26:51.069 [Thread-0] WARN  FloatLine: Parameter is null
+2023-01-28 21:26:51.078 [Thread-0] WARN  FloatLine: Parameter is null
+2023-01-28 21:26:52.291 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #1 on board 'ed3476528bf0f7f054f839ba42fa1689' making 197 changes' was performed in 1.62 seconds.
+2023-01-28 21:26:52.593 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #2 on board '48a5aca10cd75124799f4ecb03c9bab6' making 20 changes' was performed in 0.28 seconds.
+2023-01-28 21:26:52.753 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #3 on board 'a73f7cac0f9a455999917832b1975172' making 15 changes' was performed in 0.14 seconds.
+2023-01-28 21:26:52.782 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #4 on board 'd0f4d4c1511f38ffa827656d5710b20c' making 0 changes' was performed in 0.01 seconds.
+2023-01-28 21:26:52.783 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()-autorouting' was performed in 2.26 seconds.
+2023-01-28 21:26:52.783 [Thread-0] INFO  Auto-routing was completed in 2.26 seconds.
+2023-01-28 21:26:52.784 [Thread-0] INFO  Starting route optimization on 11 threads...
+2023-01-28 21:26:54.469 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #1 with 0 items, 25 vias and 3,146,350.37 trace length running on 11 threads.' was performed in 1.68 seconds.
+2023-01-28 21:26:55.773 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #2 with 72 items, 22 vias and 3,157,713.45 trace length running on 11 threads.' was performed in 1.30 seconds.
+2023-01-28 21:26:56.914 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #3 with 70 items, 18 vias and 3,171,916.54 trace length running on 11 threads.' was performed in 1.14 seconds.
+2023-01-28 21:26:57.957 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #4 with 68 items, 16 vias and 3,188,702.55 trace length running on 11 threads.' was performed in 1.04 seconds.
+2023-01-28 21:26:59.476 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #5 with 67 items, 16 vias and 3,180,727.01 trace length running on 11 threads.' was performed in 1.52 seconds.
+2023-01-28 21:27:00.593 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #6 with 67 items, 16 vias and 3,176,551.72 trace length running on 11 threads.' was performed in 1.11 seconds.
+2023-01-28 21:27:01.908 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #7 with 67 items, 15 vias and 3,186,540.11 trace length running on 11 threads.' was performed in 1.31 seconds.
+2023-01-28 21:27:02.944 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #8 with 67 items, 15 vias and 3,185,965.15 trace length running on 11 threads.' was performed in 1.03 seconds.
+2023-01-28 21:27:04.523 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #9 with 67 items, 15 vias and 3,181,027.08 trace length running on 11 threads.' was performed in 1.58 seconds.
+2023-01-28 21:27:05.531 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #10 with 67 items, 15 vias and 3,180,229.24 trace length running on 11 threads.' was performed in 1.01 seconds.
+2023-01-28 21:27:06.886 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #11 with 67 items, 14 vias and 3,178,315.78 trace length running on 11 threads.' was performed in 1.35 seconds.
+2023-01-28 21:27:06.887 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()-routeoptimization' was performed in 14.10 seconds.
+2023-01-28 21:27:06.888 [Thread-0] INFO  Route optimization was completed in 14.10 seconds and it improved the design by ~49.49%.
+2023-01-28 21:27:06.895 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()' was performed in 16.38 seconds.
+2023-01-28 21:27:06.896 [Thread-0] INFO  Saving 'C:\Users\Envy\Documents\GitHub\Sweep\SweepMX_Test\MainPCB\freerouting.ses'...
+2023-01-28 21:30:41.962 [main] INFO  Freerouting v1.6.2 (build-date: 2022-07-13)
+2023-01-28 21:30:41.973 [main] INFO  Opening 'C:\Users\Envy\Documents\GitHub\Sweep\SweepMX_Test\MainPCB\freerouting.dsn'...
+2023-01-28 21:30:42.737 [main] INFO  Opening 'freerouting.rules'...
+2023-01-28 21:30:42.738 [main] ERROR File 'freerouting.rules' was not found.
+2023-01-28 21:30:42.808 [Thread-0] INFO  Starting auto-routing...
+2023-01-28 21:30:42.809 [main] TRACE Method 'MainApplication.main()' was performed in 0.90 seconds.
+2023-01-28 21:30:45.980 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #1 on board '57f6488a5820e8a04e70a134f539a984' making 152 changes' was performed in 3.04 seconds.
+2023-01-28 21:30:47.063 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #2 on board 'f0dc53bbb55facde2aca6d72e1fc03f1' making 32 changes' was performed in 1.06 seconds.
+2023-01-28 21:30:47.583 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #3 on board 'c1105daeb979192711802f0a31691d96' making 15 changes' was performed in 0.50 seconds.
+2023-01-28 21:30:47.899 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #4 on board 'e45a33258a4509f4cb876c51c9ed8ea3' making 10 changes' was performed in 0.30 seconds.
+2023-01-28 21:30:47.934 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #5 on board 'debc75c645fb773e76b3d503071e2c0f' making 0 changes' was performed in 0.01 seconds.
+2023-01-28 21:30:47.935 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()-autorouting' was performed in 5.13 seconds.
+2023-01-28 21:30:47.936 [Thread-0] INFO  Auto-routing was completed in 5.13 seconds.
+2023-01-28 21:30:47.937 [Thread-0] INFO  Starting route optimization on 11 threads...
+2023-01-28 21:30:50.482 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #1 with 0 items, 19 vias and 2,739,044.06 trace length running on 11 threads.' was performed in 2.54 seconds.
+2023-01-28 21:30:52.223 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #2 with 92 items, 16 vias and 2,738,517.37 trace length running on 11 threads.' was performed in 1.74 seconds.
+2023-01-28 21:31:00.130 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #3 with 90 items, 12 vias and 2,733,871.59 trace length running on 11 threads.' was performed in 7.91 seconds.
+2023-01-28 21:31:01.995 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #4 with 88 items, 10 vias and 2,713,566.70 trace length running on 11 threads.' was performed in 1.86 seconds.
+2023-01-28 21:31:03.628 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #5 with 86 items, 8 vias and 2,819,507.80 trace length running on 11 threads.' was performed in 1.63 seconds.
+2023-01-28 21:31:04.995 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #6 with 86 items, 5 vias and 2,940,897.58 trace length running on 11 threads.' was performed in 1.36 seconds.
+2023-01-28 21:31:07.335 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #7 with 86 items, 4 vias and 2,911,960.49 trace length running on 11 threads.' was performed in 2.34 seconds.
+2023-01-28 21:31:09.010 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #8 with 86 items, 4 vias and 2,865,185.54 trace length running on 11 threads.' was performed in 1.67 seconds.
+2023-01-28 21:31:09.011 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()-routeoptimization' was performed in 21.07 seconds.
+2023-01-28 21:31:09.012 [Thread-0] INFO  Route optimization was completed in 21.07 seconds and it improved the design by ~46.27%.
+2023-01-28 21:31:09.018 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()' was performed in 26.21 seconds.
+2023-01-28 21:31:09.019 [Thread-0] INFO  Saving 'C:\Users\Envy\Documents\GitHub\Sweep\SweepMX_Test\MainPCB\freerouting.ses'...
+2023-01-28 21:31:40.012 [main] INFO  Freerouting v1.6.2 (build-date: 2022-07-13)
+2023-01-28 21:31:40.024 [main] INFO  Opening 'C:\Users\Envy\Documents\GitHub\Sweep\SweepMX_Test\MainPCB\freerouting.dsn'...
+2023-01-28 21:31:40.766 [main] INFO  Opening 'freerouting.rules'...
+2023-01-28 21:31:40.767 [main] ERROR File 'freerouting.rules' was not found.
+2023-01-28 21:31:40.910 [Thread-0] INFO  Starting auto-routing...
+2023-01-28 21:31:40.911 [main] TRACE Method 'MainApplication.main()' was performed in 0.96 seconds.
+2023-01-28 21:31:43.886 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #1 on board '3d986321c7dc733f83454930f0a81af2' making 154 changes' was performed in 2.83 seconds.
+2023-01-28 21:31:44.707 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #2 on board '963369995349abb95d3a04f71ed53219' making 30 changes' was performed in 0.79 seconds.
+2023-01-28 21:31:45.122 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #3 on board '2af638c156452bed69e0bf5ca24cacca' making 25 changes' was performed in 0.39 seconds.
+2023-01-28 21:31:45.198 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #4 on board '94fdc1dc61a460e01a32ab171563d255' making 3 changes' was performed in 0.06 seconds.
+2023-01-28 21:31:45.229 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #5 on board '92807105a44afa09dff7bac92d5b91c8' making 0 changes' was performed in 0.01 seconds.
+2023-01-28 21:31:45.230 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()-autorouting' was performed in 4.32 seconds.
+2023-01-28 21:31:45.231 [Thread-0] INFO  Auto-routing was completed in 4.32 seconds.
+2023-01-28 21:31:45.232 [Thread-0] INFO  Starting route optimization on 11 threads...
+2023-01-28 21:31:46.986 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #1 with 0 items, 15 vias and 2,661,266.98 trace length running on 11 threads.' was performed in 1.75 seconds.
+2023-01-28 21:31:48.799 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #2 with 93 items, 15 vias and 2,654,475.74 trace length running on 11 threads.' was performed in 1.81 seconds.
+2023-01-28 21:31:50.450 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #3 with 95 items, 12 vias and 2,650,883.73 trace length running on 11 threads.' was performed in 1.65 seconds.
+2023-01-28 21:31:57.629 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #4 with 94 items, 12 vias and 2,648,760.28 trace length running on 11 threads.' was performed in 7.18 seconds.
+2023-01-28 21:32:00.494 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #5 with 93 items, 8 vias and 2,858,787.64 trace length running on 11 threads.' was performed in 2.86 seconds.
+2023-01-28 21:32:02.492 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #6 with 95 items, 5 vias and 2,922,491.82 trace length running on 11 threads.' was performed in 1.99 seconds.
+2023-01-28 21:32:04.379 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #7 with 98 items, 5 vias and 2,872,441.86 trace length running on 11 threads.' was performed in 1.89 seconds.
+2023-01-28 21:32:06.411 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #8 with 97 items, 5 vias and 2,870,535.56 trace length running on 11 threads.' was performed in 2.03 seconds.
+2023-01-28 21:32:06.412 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()-routeoptimization' was performed in 21.18 seconds.
+2023-01-28 21:32:06.413 [Thread-0] INFO  Route optimization was completed in 21.18 seconds and it improved the design by ~46.08%.
+2023-01-28 21:32:06.419 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()' was performed in 25.51 seconds.
+2023-01-28 21:32:06.420 [Thread-0] INFO  Saving 'C:\Users\Envy\Documents\GitHub\Sweep\SweepMX_Test\MainPCB\freerouting.ses'...
