@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "${GITROOT}/_libraries/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "Mounting_Keyboard_Stabilizer")(type "KiCad")(uri "${GITROOT}/_libraries/Mounting_Keyboard_Stabilizer.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Alps_Matias")(type "KiCad")(uri "${GITROOT}/_libraries/Switch_Keyboard_Alps_Matias.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Cherry_MX")(type "KiCad")(uri "${GITROOT}/_libraries/Switch_Keyboard_Cherry_MX.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Hotswap_Kailh")(type "KiCad")(uri "${GITROOT}/_libraries/Switch_Keyboard_Hotswap_Kailh.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Hybrid")(type "KiCad")(uri "${GITROOT}/_libraries/Switch_Keyboard_Hybrid.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Kailh")(type "KiCad")(uri "${GITROOT}/_libraries/Switch_Keyboard_Kailh.pretty")(options "")(descr ""))
+  (lib (name "env_extra")(type "KiCad")(uri "${GITROOT}/_libraries/env_extra.pretty")(options "")(descr ""))
+)
